@@ -1,0 +1,15 @@
+body{
+  background-color: #42f4f1;
+  font-family: Helvetica;/*Changes font of the entire website to Helvetica*/
+  margin:0px 10% 010%; /*remember top, right, bottom, left*/
+  display: block;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+  h1{
+    color: #4CC3D9;
+    text-align: center;
+    text-shadow: 1px 0 0 #0000be, 0-1px 0 #0000be,0 1px 0 #0000be, -1px 0 0 #0000be; /*adding a shadow around h1*/
+      font-size: 40px;
+  }
